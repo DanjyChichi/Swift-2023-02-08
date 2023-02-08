@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='ex02'/>
+        <page name='ex01'/>
+        <page name='ex03'/>
+        <page name='ex04'/>
+        <page name='ex05'/>
+        <page name='ex06'/>
+        <page name='ex06(practice)'/>
+        <page name='ex06-1'/>
+        <page name='ex07'/>
+        <page name='practice'/>
+        <page name='ex05-1'/>
+        <page name='ex08'/>
+        <page name='ex09'/>
+        <page name='ex10'/>
+        <page name='ex11'/>
+        <page name='ex12'/>
+        <page name='ex13'/>
+        <page name='ex14'/>
+        <page name='ex15'/>
+        <page name='ex16'/>
+        <page name='ex17'/>
+        <page name='ex18'/>
+        <page name='ex20'/>
+        <page name='ex21'/>
+        <page name='ex22'/>
+        <page name='ex23'/>
+        <page name='ex24'/>
+        <page name='ex25'/>
+        <page name='ex26'/>
+        <page name='ex27'/>
+        <page name='ex17-1(copy)'/>
+    </pages>
+</playground>
